@@ -1,0 +1,105 @@
+{
+	"id": "c744d945-3821-4318-9ce2-f76a6738743b",
+	"name": "Pet Store",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://petstore.swagger.io",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "firstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "lastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "phone",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "userStatus",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "orderId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "petId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "quantity",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "status",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "complete",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "shipDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "updatedPhone",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-08-25T15:38:50.230Z",
+	"_postman_exported_using": "Postman/10.17.3"
+}
